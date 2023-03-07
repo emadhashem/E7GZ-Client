@@ -27,7 +27,7 @@ function GroupPage() {
       </Box>
       <Container maxWidth="lg">
         <Divider />
-        <Grid container>{/* appoinments */}</Grid>
+        <Grid container>{/* appoinment arr */}</Grid>
       </Container>
     </Container>
   );
