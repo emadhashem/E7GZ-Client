@@ -46,7 +46,7 @@ function GroupPage() {
             <Grid lg = {6} xs = {12} item>
               <Appoinment
                 title="this title"
-                msg="cdsnc jndcjsdcn jdcjsdc"
+                msg="this is description for this appoinment "
                 id={idx + ""}
                 start={new Date()}
                 end={new Date()}
